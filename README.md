@@ -1,5 +1,5 @@
 # responsive-web-design
-Projects using HTML and CSS to practice Responsive Web Design Certification
+Projects using HTML and CSS to practice responsive web design
 
-Each project passes all user stories required for FCC. These were the first projects I coded from scratch so I learned a lot about
-what works, what doesn't, and how to keep moving forward.
+These were the first projects I coded from scratch so I learned a lot about
+what works, what doesn't, and how to keep moving forward. My previous endeavors all relied on boiler plates and templates.
